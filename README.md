@@ -5,3 +5,5 @@ json.hpp 来自https://github.com/nlohmann/json
 httplib.h 来自cpp-httplib项目
 
 聊天为轮转聊天，定时查询服务器新的聊天信息
+
+客户端由py文件直接构成 需要Qt支持文件
